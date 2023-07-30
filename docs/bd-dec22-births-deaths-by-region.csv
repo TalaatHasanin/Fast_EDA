@@ -1,0 +1,685 @@
+Period,Birth_Death,Region,Count
+2005,Births,Northland region,2067
+2005,Births,Auckland region,20745
+2005,Births,Waikato region,5667
+2005,Births,Bay of Plenty region,3771
+2005,Births,Gisborne region,777
+2005,Births,Hawke's Bay region,2115
+2005,Births,Taranaki region,1410
+2005,Births,Manawatu-Wanganui region,3093
+2005,Births,Wellington region,6225
+2005,Births,Tasman region,513
+2005,Births,Nelson region,519
+2005,Births,Marlborough region,471
+2005,Births,West Coast region,336
+2005,Births,Canterbury region,6603
+2005,Births,Otago region,2151
+2005,Births,Southland region,1212
+2005,Births,"Region not stated or
+area outside region",57
+2005,Births,New Zealand,57747
+2005,Deaths,Northland region,1167
+2005,Deaths,Auckland region,6873
+2005,Deaths,Waikato region,2520
+2005,Deaths,Bay of Plenty region,1956
+2005,Deaths,Gisborne region,375
+2005,Deaths,Hawke's Bay region,1278
+2005,Deaths,Taranaki region,909
+2005,Deaths,Manawatu-Wanganui region,1836
+2005,Deaths,Wellington region,2745
+2005,Deaths,Tasman region,315
+2005,Deaths,Nelson region,345
+2005,Deaths,Marlborough region,372
+2005,Deaths,West Coast region,243
+2005,Deaths,Canterbury region,3816
+2005,Deaths,Otago region,1428
+2005,Deaths,Southland region,723
+2005,Deaths,"Region not stated or
+area outside region",129
+2005,Deaths,New Zealand,27033
+2006,Births,Northland region,2244
+2006,Births,Auckland region,21333
+2006,Births,Waikato region,5592
+2006,Births,Bay of Plenty region,3840
+2006,Births,Gisborne region,720
+2006,Births,Hawke's Bay region,2163
+2006,Births,Taranaki region,1455
+2006,Births,Manawatu-Wanganui region,3165
+2006,Births,Wellington region,6441
+2006,Births,Tasman region,549
+2006,Births,Nelson region,522
+2006,Births,Marlborough region,486
+2006,Births,West Coast region,390
+2006,Births,Canterbury region,6777
+2006,Births,Otago region,2148
+2006,Births,Southland region,1233
+2006,Births,"Region not stated or
+area outside region",135
+2006,Births,New Zealand,59193
+2006,Deaths,Northland region,1164
+2006,Deaths,Auckland region,7152
+2006,Deaths,Waikato region,2754
+2006,Deaths,Bay of Plenty region,2151
+2006,Deaths,Gisborne region,438
+2006,Deaths,Hawke's Bay region,1251
+2006,Deaths,Taranaki region,858
+2006,Deaths,Manawatu-Wanganui region,1965
+2006,Deaths,Wellington region,2826
+2006,Deaths,Tasman region,342
+2006,Deaths,Nelson region,366
+2006,Deaths,Marlborough region,360
+2006,Deaths,West Coast region,240
+2006,Deaths,Canterbury region,4014
+2006,Deaths,Otago region,1458
+2006,Deaths,Southland region,765
+2006,Deaths,"Region not stated or
+area outside region",135
+2006,Deaths,New Zealand,28245
+2007,Births,Northland region,2322
+2007,Births,Auckland region,23007
+2007,Births,Waikato region,6231
+2007,Births,Bay of Plenty region,4053
+2007,Births,Gisborne region,801
+2007,Births,Hawke's Bay region,2319
+2007,Births,Taranaki region,1611
+2007,Births,Manawatu-Wanganui region,3297
+2007,Births,Wellington region,6876
+2007,Births,Tasman region,552
+2007,Births,Nelson region,639
+2007,Births,Marlborough region,513
+2007,Births,West Coast region,405
+2007,Births,Canterbury region,7548
+2007,Births,Otago region,2349
+2007,Births,Southland region,1350
+2007,Births,"Region not stated or
+area outside region",174
+2007,Births,New Zealand,64044
+2007,Deaths,Northland region,1224
+2007,Deaths,Auckland region,7218
+2007,Deaths,Waikato region,2787
+2007,Deaths,Bay of Plenty region,2139
+2007,Deaths,Gisborne region,378
+2007,Deaths,Hawke's Bay region,1281
+2007,Deaths,Taranaki region,939
+2007,Deaths,Manawatu-Wanganui region,1812
+2007,Deaths,Wellington region,2865
+2007,Deaths,Tasman region,324
+2007,Deaths,Nelson region,381
+2007,Deaths,Marlborough region,366
+2007,Deaths,West Coast region,255
+2007,Deaths,Canterbury region,4107
+2007,Deaths,Otago region,1530
+2007,Deaths,Southland region,783
+2007,Deaths,"Region not stated or
+area outside region",132
+2007,Deaths,New Zealand,28521
+2008,Births,Northland region,2304
+2008,Births,Auckland region,23112
+2008,Births,Waikato region,6423
+2008,Births,Bay of Plenty region,4116
+2008,Births,Gisborne region,828
+2008,Births,Hawke's Bay region,2358
+2008,Births,Taranaki region,1596
+2008,Births,Manawatu-Wanganui region,3372
+2008,Births,Wellington region,6972
+2008,Births,Tasman region,558
+2008,Births,Nelson region,627
+2008,Births,Marlborough region,570
+2008,Births,West Coast region,453
+2008,Births,Canterbury region,7284
+2008,Births,Otago region,2367
+2008,Births,Southland region,1338
+2008,Births,"Region not stated or
+area outside region",63
+2008,Births,New Zealand,64344
+2008,Deaths,Northland region,1344
+2008,Deaths,Auckland region,7404
+2008,Deaths,Waikato region,2871
+2008,Deaths,Bay of Plenty region,2241
+2008,Deaths,Gisborne region,387
+2008,Deaths,Hawke's Bay region,1200
+2008,Deaths,Taranaki region,912
+2008,Deaths,Manawatu-Wanganui region,1920
+2008,Deaths,Wellington region,3015
+2008,Deaths,Tasman region,297
+2008,Deaths,Nelson region,411
+2008,Deaths,Marlborough region,381
+2008,Deaths,West Coast region,273
+2008,Deaths,Canterbury region,4017
+2008,Deaths,Otago region,1617
+2008,Deaths,Southland region,786
+2008,Deaths,"Region not stated or
+area outside region",108
+2008,Deaths,New Zealand,29190
+2009,Births,Northland region,2199
+2009,Births,Auckland region,22605
+2009,Births,Waikato region,6147
+2009,Births,Bay of Plenty region,3939
+2009,Births,Gisborne region,729
+2009,Births,Hawke's Bay region,2352
+2009,Births,Taranaki region,1587
+2009,Births,Manawatu-Wanganui region,3153
+2009,Births,Wellington region,6792
+2009,Births,Tasman region,498
+2009,Births,Nelson region,603
+2009,Births,Marlborough region,552
+2009,Births,West Coast region,432
+2009,Births,Canterbury region,7161
+2009,Births,Otago region,2352
+2009,Births,Southland region,1356
+2009,Births,"Region not stated or
+area outside region",90
+2009,Births,New Zealand,62544
+2009,Deaths,Northland region,1287
+2009,Deaths,Auckland region,7386
+2009,Deaths,Waikato region,2760
+2009,Deaths,Bay of Plenty region,2226
+2009,Deaths,Gisborne region,360
+2009,Deaths,Hawke's Bay region,1251
+2009,Deaths,Taranaki region,897
+2009,Deaths,Manawatu-Wanganui region,1941
+2009,Deaths,Wellington region,2955
+2009,Deaths,Tasman region,300
+2009,Deaths,Nelson region,360
+2009,Deaths,Marlborough region,378
+2009,Deaths,West Coast region,264
+2009,Deaths,Canterbury region,4206
+2009,Deaths,Otago region,1560
+2009,Deaths,Southland region,765
+2009,Deaths,"Region not stated or
+area outside region",66
+2009,Deaths,New Zealand,28962
+2010,Births,Northland region,2397
+2010,Births,Auckland region,23214
+2010,Births,Waikato region,6324
+2010,Births,Bay of Plenty region,3957
+2010,Births,Gisborne region,783
+2010,Births,Hawke's Bay region,2286
+2010,Births,Taranaki region,1596
+2010,Births,Manawatu-Wanganui region,3297
+2010,Births,Wellington region,6771
+2010,Births,Tasman region,543
+2010,Births,Nelson region,603
+2010,Births,Marlborough region,573
+2010,Births,West Coast region,429
+2010,Births,Canterbury region,7305
+2010,Births,Otago region,2331
+2010,Births,Southland region,1404
+2010,Births,"Region not stated or
+area outside region",81
+2010,Births,New Zealand,63897
+2010,Deaths,Northland region,1233
+2010,Deaths,Auckland region,7227
+2010,Deaths,Waikato region,2772
+2010,Deaths,Bay of Plenty region,2139
+2010,Deaths,Gisborne region,381
+2010,Deaths,Hawke's Bay region,1206
+2010,Deaths,Taranaki region,909
+2010,Deaths,Manawatu-Wanganui region,1905
+2010,Deaths,Wellington region,2916
+2010,Deaths,Tasman region,309
+2010,Deaths,Nelson region,372
+2010,Deaths,Marlborough region,360
+2010,Deaths,West Coast region,249
+2010,Deaths,Canterbury region,4272
+2010,Deaths,Otago region,1392
+2010,Deaths,Southland region,744
+2010,Deaths,"Region not stated or
+area outside region",48
+2010,Deaths,New Zealand,28437
+2011,Births,Northland region,2199
+2011,Births,Auckland region,22659
+2011,Births,Waikato region,5916
+2011,Births,Bay of Plenty region,3951
+2011,Births,Gisborne region,738
+2011,Births,Hawke's Bay region,2226
+2011,Births,Taranaki region,1554
+2011,Births,Manawatu-Wanganui region,3171
+2011,Births,Wellington region,6528
+2011,Births,Tasman region,501
+2011,Births,Nelson region,600
+2011,Births,Marlborough region,540
+2011,Births,West Coast region,432
+2011,Births,Canterbury region,6693
+2011,Births,Otago region,2340
+2011,Births,Southland region,1332
+2011,Births,"Region not stated or
+area outside region",24
+2011,Births,New Zealand,61401
+2011,Deaths,Northland region,1365
+2011,Deaths,Auckland region,7692
+2011,Deaths,Waikato region,2937
+2011,Deaths,Bay of Plenty region,2202
+2011,Deaths,Gisborne region,366
+2011,Deaths,Hawke's Bay region,1269
+2011,Deaths,Taranaki region,978
+2011,Deaths,Manawatu-Wanganui region,1911
+2011,Deaths,Wellington region,3123
+2011,Deaths,Tasman region,348
+2011,Deaths,Nelson region,375
+2011,Deaths,Marlborough region,378
+2011,Deaths,West Coast region,291
+2011,Deaths,Canterbury region,4473
+2011,Deaths,Otago region,1542
+2011,Deaths,Southland region,807
+2011,Deaths,"Region not stated or
+area outside region",27
+2011,Deaths,New Zealand,30081
+2012,Births,Northland region,2310
+2012,Births,Auckland region,22836
+2012,Births,Waikato region,6051
+2012,Births,Bay of Plenty region,3876
+2012,Births,Gisborne region,708
+2012,Births,Hawke's Bay region,2238
+2012,Births,Taranaki region,1533
+2012,Births,Manawatu-Wanganui region,3015
+2012,Births,Wellington region,6435
+2012,Births,Tasman region,477
+2012,Births,Nelson region,546
+2012,Births,Marlborough region,507
+2012,Births,West Coast region,417
+2012,Births,Canterbury region,6633
+2012,Births,Otago region,2337
+2012,Births,Southland region,1245
+2012,Births,"Region not stated or
+area outside region",18
+2012,Births,New Zealand,61179
+2012,Deaths,Northland region,1374
+2012,Deaths,Auckland region,7665
+2012,Deaths,Waikato region,2931
+2012,Deaths,Bay of Plenty region,2211
+2012,Deaths,Gisborne region,396
+2012,Deaths,Hawke's Bay region,1326
+2012,Deaths,Taranaki region,948
+2012,Deaths,Manawatu-Wanganui region,1920
+2012,Deaths,Wellington region,3123
+2012,Deaths,Tasman region,342
+2012,Deaths,Nelson region,417
+2012,Deaths,Marlborough region,393
+2012,Deaths,West Coast region,252
+2012,Deaths,Canterbury region,4359
+2012,Deaths,Otago region,1635
+2012,Deaths,Southland region,783
+2012,Deaths,"Region not stated or
+area outside region",21
+2012,Deaths,New Zealand,30099
+2013,Births,Northland region,2124
+2013,Births,Auckland region,21825
+2013,Births,Waikato region,5745
+2013,Births,Bay of Plenty region,3696
+2013,Births,Gisborne region,699
+2013,Births,Hawke's Bay region,2160
+2013,Births,Taranaki region,1503
+2013,Births,Manawatu-Wanganui region,2985
+2013,Births,Wellington region,6057
+2013,Births,Tasman region,486
+2013,Births,Nelson region,555
+2013,Births,Marlborough region,504
+2013,Births,West Coast region,384
+2013,Births,Canterbury region,6543
+2013,Births,Otago region,2235
+2013,Births,Southland region,1200
+2013,Births,"Region not stated or
+area outside region",12
+2013,Births,New Zealand,58716
+2013,Deaths,Northland region,1365
+2013,Deaths,Auckland region,7566
+2013,Deaths,Waikato region,2919
+2013,Deaths,Bay of Plenty region,2238
+2013,Deaths,Gisborne region,399
+2013,Deaths,Hawke's Bay region,1269
+2013,Deaths,Taranaki region,888
+2013,Deaths,Manawatu-Wanganui region,1947
+2013,Deaths,Wellington region,3024
+2013,Deaths,Tasman region,372
+2013,Deaths,Nelson region,411
+2013,Deaths,Marlborough region,396
+2013,Deaths,West Coast region,291
+2013,Deaths,Canterbury region,4098
+2013,Deaths,Otago region,1581
+2013,Deaths,Southland region,780
+2013,Deaths,"Region not stated or
+area outside region",24
+2013,Deaths,New Zealand,29568
+2014,Births,Northland region,2049
+2014,Births,Auckland region,21429
+2014,Births,Waikato region,5688
+2014,Births,Bay of Plenty region,3504
+2014,Births,Gisborne region,651
+2014,Births,Hawke's Bay region,2037
+2014,Births,Taranaki region,1506
+2014,Births,Manawatu-Wanganui region,2865
+2014,Births,Wellington region,5889
+2014,Births,Tasman region,411
+2014,Births,Nelson region,534
+2014,Births,Marlborough region,486
+2014,Births,West Coast region,375
+2014,Births,Canterbury region,6573
+2014,Births,Otago region,2088
+2014,Births,Southland region,1134
+2014,Births,"Region not stated or
+area outside region",21
+2014,Births,New Zealand,57243
+2014,Deaths,Northland region,1377
+2014,Deaths,Auckland region,8034
+2014,Deaths,Waikato region,2955
+2014,Deaths,Bay of Plenty region,2352
+2014,Deaths,Gisborne region,387
+2014,Deaths,Hawke's Bay region,1377
+2014,Deaths,Taranaki region,963
+2014,Deaths,Manawatu-Wanganui region,2064
+2014,Deaths,Wellington region,3186
+2014,Deaths,Tasman region,339
+2014,Deaths,Nelson region,402
+2014,Deaths,Marlborough region,381
+2014,Deaths,West Coast region,279
+2014,Deaths,Canterbury region,4422
+2014,Deaths,Otago region,1689
+2014,Deaths,Southland region,816
+2014,Deaths,"Region not stated or
+area outside region",42
+2014,Deaths,New Zealand,31062
+2015,Births,Northland region,2196
+2015,Births,Auckland region,22434
+2015,Births,Waikato region,6234
+2015,Births,Bay of Plenty region,3879
+2015,Births,Gisborne region,717
+2015,Births,Hawke's Bay region,2145
+2015,Births,Taranaki region,1611
+2015,Births,Manawatu-Wanganui region,3072
+2015,Births,Wellington region,6231
+2015,Births,Tasman region,447
+2015,Births,Nelson region,534
+2015,Births,Marlborough region,489
+2015,Births,West Coast region,381
+2015,Births,Canterbury region,7077
+2015,Births,Otago region,2358
+2015,Births,Southland region,1224
+2015,Births,"Region not stated or
+area outside region",12
+2015,Births,New Zealand,61038
+2015,Deaths,Northland region,1443
+2015,Deaths,Auckland region,8175
+2015,Deaths,Waikato region,3105
+2015,Deaths,Bay of Plenty region,2517
+2015,Deaths,Gisborne region,351
+2015,Deaths,Hawke's Bay region,1467
+2015,Deaths,Taranaki region,1008
+2015,Deaths,Manawatu-Wanganui region,2016
+2015,Deaths,Wellington region,3150
+2015,Deaths,Tasman region,375
+2015,Deaths,Nelson region,447
+2015,Deaths,Marlborough region,411
+2015,Deaths,West Coast region,294
+2015,Deaths,Canterbury region,4305
+2015,Deaths,Otago region,1641
+2015,Deaths,Southland region,879
+2015,Deaths,"Region not stated or
+area outside region",24
+2015,Deaths,New Zealand,31608
+2016,Births,Northland region,2229
+2016,Births,Auckland region,21810
+2016,Births,Waikato region,6066
+2016,Births,Bay of Plenty region,3864
+2016,Births,Gisborne region,738
+2016,Births,Hawke's Bay region,2058
+2016,Births,Taranaki region,1473
+2016,Births,Manawatu-Wanganui region,2928
+2016,Births,Wellington region,6015
+2016,Births,Tasman region,453
+2016,Births,Nelson region,540
+2016,Births,Marlborough region,534
+2016,Births,West Coast region,324
+2016,Births,Canterbury region,7014
+2016,Births,Otago region,2199
+2016,Births,Southland region,1161
+2016,Births,"Region not stated or
+area outside region",15
+2016,Births,New Zealand,59427
+2016,Deaths,Northland region,1563
+2016,Deaths,Auckland region,8007
+2016,Deaths,Waikato region,3066
+2016,Deaths,Bay of Plenty region,2403
+2016,Deaths,Gisborne region,378
+2016,Deaths,Hawke's Bay region,1368
+2016,Deaths,Taranaki region,981
+2016,Deaths,Manawatu-Wanganui region,2082
+2016,Deaths,Wellington region,3237
+2016,Deaths,Tasman region,384
+2016,Deaths,Nelson region,447
+2016,Deaths,Marlborough region,426
+2016,Deaths,West Coast region,267
+2016,Deaths,Canterbury region,4158
+2016,Deaths,Otago region,1536
+2016,Deaths,Southland region,855
+2016,Deaths,"Region not stated or
+area outside region",24
+2016,Deaths,New Zealand,31179
+2017,Births,Northland region,2247
+2017,Births,Auckland region,21393
+2017,Births,Waikato region,6204
+2017,Births,Bay of Plenty region,4086
+2017,Births,Gisborne region,705
+2017,Births,Hawke's Bay region,2127
+2017,Births,Taranaki region,1389
+2017,Births,Manawatu-Wanganui region,3045
+2017,Births,Wellington region,6057
+2017,Births,Tasman region,459
+2017,Births,Nelson region,504
+2017,Births,Marlborough region,495
+2017,Births,West Coast region,363
+2017,Births,Canterbury region,7065
+2017,Births,Otago region,2241
+2017,Births,Southland region,1215
+2017,Births,"Region not stated or
+area outside region",15
+2017,Births,New Zealand,59610
+2017,Deaths,Northland region,1611
+2017,Deaths,Auckland region,8577
+2017,Deaths,Waikato region,3378
+2017,Deaths,Bay of Plenty region,2676
+2017,Deaths,Gisborne region,432
+2017,Deaths,Hawke's Bay region,1527
+2017,Deaths,Taranaki region,1017
+2017,Deaths,Manawatu-Wanganui region,2262
+2017,Deaths,Wellington region,3300
+2017,Deaths,Tasman region,372
+2017,Deaths,Nelson region,468
+2017,Deaths,Marlborough region,405
+2017,Deaths,West Coast region,309
+2017,Deaths,Canterbury region,4494
+2017,Deaths,Otago region,1647
+2017,Deaths,Southland region,849
+2017,Deaths,"Region not stated or
+area outside region",21
+2017,Deaths,New Zealand,33342
+2018,Births,Northland region,2181
+2018,Births,Auckland region,20712
+2018,Births,Waikato region,6054
+2018,Births,Bay of Plenty region,3969
+2018,Births,Gisborne region,711
+2018,Births,Hawke's Bay region,2070
+2018,Births,Taranaki region,1548
+2018,Births,Manawatu-Wanganui region,3024
+2018,Births,Wellington region,5706
+2018,Births,Tasman region,447
+2018,Births,Nelson region,540
+2018,Births,Marlborough region,504
+2018,Births,West Coast region,324
+2018,Births,Canterbury region,6939
+2018,Births,Otago region,2148
+2018,Births,Southland region,1119
+2018,Births,"Region not stated or
+area outside region",18
+2018,Births,New Zealand,58020
+2018,Deaths,Northland region,1692
+2018,Deaths,Auckland region,8586
+2018,Deaths,Waikato region,3420
+2018,Deaths,Bay of Plenty region,2583
+2018,Deaths,Gisborne region,429
+2018,Deaths,Hawke's Bay region,1515
+2018,Deaths,Taranaki region,1026
+2018,Deaths,Manawatu-Wanganui region,2190
+2018,Deaths,Wellington region,3330
+2018,Deaths,Tasman region,402
+2018,Deaths,Nelson region,441
+2018,Deaths,Marlborough region,450
+2018,Deaths,West Coast region,291
+2018,Deaths,Canterbury region,4431
+2018,Deaths,Otago region,1626
+2018,Deaths,Southland region,804
+2018,Deaths,"Region not stated or
+area outside region",15
+2018,Deaths,New Zealand,33225
+2019,Births,Northland region,2250
+2019,Births,Auckland region,21405
+2019,Births,Waikato region,6237
+2019,Births,Bay of Plenty region,4047
+2019,Births,Gisborne region,675
+2019,Births,Hawke's Bay region,2037
+2019,Births,Taranaki region,1542
+2019,Births,Manawatu-Wanganui region,3057
+2019,Births,Wellington region,5904
+2019,Births,Tasman region,462
+2019,Births,Nelson region,537
+2019,Births,Marlborough region,480
+2019,Births,West Coast region,354
+2019,Births,Canterbury region,7164
+2019,Births,Otago region,2310
+2019,Births,Southland region,1152
+2019,Births,"Region not stated or
+area outside region",21
+2019,Births,New Zealand,59637
+2019,Deaths,Northland region,1662
+2019,Deaths,Auckland region,8619
+2019,Deaths,Waikato region,3393
+2019,Deaths,Bay of Plenty region,2787
+2019,Deaths,Gisborne region,456
+2019,Deaths,Hawke's Bay region,1584
+2019,Deaths,Taranaki region,1041
+2019,Deaths,Manawatu-Wanganui region,2178
+2019,Deaths,Wellington region,3693
+2019,Deaths,Tasman region,450
+2019,Deaths,Nelson region,474
+2019,Deaths,Marlborough region,414
+2019,Deaths,West Coast region,300
+2019,Deaths,Canterbury region,4608
+2019,Deaths,Otago region,1695
+2019,Deaths,Southland region,888
+2019,Deaths,"Region not stated or
+area outside region",21
+2019,Deaths,New Zealand,34260
+2020,Births,Northland region,2244
+2020,Births,Auckland region,20385
+2020,Births,Waikato region,6195
+2020,Births,Bay of Plenty region,4005
+2020,Births,Gisborne region,663
+2020,Births,Hawke's Bay region,2079
+2020,Births,Taranaki region,1467
+2020,Births,Manawatu-Wanganui region,2976
+2020,Births,Wellington region,5691
+2020,Births,Tasman region,474
+2020,Births,Nelson region,477
+2020,Births,Marlborough region,477
+2020,Births,West Coast region,312
+2020,Births,Canterbury region,6780
+2020,Births,Otago region,2238
+2020,Births,Southland region,1083
+2020,Births,"Region not stated or
+area outside region",18
+2020,Births,New Zealand,57576
+2020,Deaths,Northland region,1644
+2020,Deaths,Auckland region,8328
+2020,Deaths,Waikato region,3357
+2020,Deaths,Bay of Plenty region,2526
+2020,Deaths,Gisborne region,393
+2020,Deaths,Hawke's Bay region,1440
+2020,Deaths,Taranaki region,1002
+2020,Deaths,Manawatu-Wanganui region,2052
+2020,Deaths,Wellington region,3282
+2020,Deaths,Tasman region,366
+2020,Deaths,Nelson region,444
+2020,Deaths,Marlborough region,423
+2020,Deaths,West Coast region,273
+2020,Deaths,Canterbury region,4476
+2020,Deaths,Otago region,1677
+2020,Deaths,Southland region,894
+2020,Deaths,"Region not stated or
+area outside region",30
+2020,Deaths,New Zealand,32613
+2021,Births,Northland region,2262
+2021,Births,Auckland region,20520
+2021,Births,Waikato region,6330
+2021,Births,Bay of Plenty region,4173
+2021,Births,Gisborne region,675
+2021,Births,Hawke's Bay region,2127
+2021,Births,Taranaki region,1488
+2021,Births,Manawatu-Wanganui region,2952
+2021,Births,Wellington region,5769
+2021,Births,Tasman region,492
+2021,Births,Nelson region,498
+2021,Births,Marlborough region,486
+2021,Births,West Coast region,333
+2021,Births,Canterbury region,7158
+2021,Births,Otago region,2325
+2021,Births,Southland region,1059
+2021,Births,"Region not stated or
+area outside region",12
+2021,Births,New Zealand,58659
+2021,Deaths,Northland region,1722
+2021,Deaths,Auckland region,8907
+2021,Deaths,Waikato region,3600
+2021,Deaths,Bay of Plenty region,2760
+2021,Deaths,Gisborne region,393
+2021,Deaths,Hawke's Bay region,1548
+2021,Deaths,Taranaki region,1035
+2021,Deaths,Manawatu-Wanganui region,2295
+2021,Deaths,Wellington region,3588
+2021,Deaths,Tasman region,420
+2021,Deaths,Nelson region,468
+2021,Deaths,Marlborough region,471
+2021,Deaths,West Coast region,336
+2021,Deaths,Canterbury region,4689
+2021,Deaths,Otago region,1764
+2021,Deaths,Southland region,891
+2021,Deaths,"Region not stated or
+area outside region",39
+2021,Deaths,New Zealand,34929
+2022,Births,Northland region,2367
+2022,Births,Auckland region,20469
+2022,Births,Waikato region,6387
+2022,Births,Bay of Plenty region,4257
+2022,Births,Gisborne region,723
+2022,Births,Hawke's Bay region,2076
+2022,Births,Taranaki region,1458
+2022,Births,Manawatu-Wanganui region,3030
+2022,Births,Wellington region,5610
+2022,Births,Tasman region,483
+2022,Births,Nelson region,483
+2022,Births,Marlborough region,480
+2022,Births,West Coast region,303
+2022,Births,Canterbury region,7284
+2022,Births,Otago region,2328
+2022,Births,Southland region,1143
+2022,Births,"Region not stated or
+area outside region",6
+2022,Births,New Zealand,58887
+2022,Deaths,Northland region,1986
+2022,Deaths,Auckland region,9783
+2022,Deaths,Waikato region,4101
+2022,Deaths,Bay of Plenty region,3183
+2022,Deaths,Gisborne region,441
+2022,Deaths,Hawke's Bay region,1704
+2022,Deaths,Taranaki region,1113
+2022,Deaths,Manawatu-Wanganui region,2457
+2022,Deaths,Wellington region,3804
+2022,Deaths,Tasman region,444
+2022,Deaths,Nelson region,531
+2022,Deaths,Marlborough region,453
+2022,Deaths,West Coast region,363
+2022,Deaths,Canterbury region,5319
+2022,Deaths,Otago region,1932
+2022,Deaths,Southland region,933
+2022,Deaths,"Region not stated or
+area outside region",33
+2022,Deaths,New Zealand,38574
