@@ -1,8 +1,10 @@
 # Fast Exploratory Data Analysis (EDA) App
 
+
 ## Introduction
 ------------
 The Fast Exploratory Data Analysis (EDA) App is a Python application that allows you to Explore your data files through EDA process. You can add your .csv files, and the application will explore your data based on the content of the documents. Please note that the app will change its state each time you change data settings.
+
 
 ## How It Works
 ------------
@@ -14,6 +16,7 @@ The application follows these steps to provide responses about your data:
 
 3. Multiple Charts: The application provides you with plot settings such as {Boxplot, Lineplot, Histogram, and Scatterplot}.
 
+
 ## Dependencies and Installation
 ----------------------------
 To install the Fast Exploratory Data Analysis (EDA) App, please follow these steps:
@@ -24,6 +27,7 @@ To install the Fast Exploratory Data Analysis (EDA) App, please follow these ste
    ```
    pip install -r requirements.txt
    ```
+
 
 ## Usage
 -----
@@ -42,9 +46,11 @@ To use the Fast Exploratory Data Analysis (EDA) App, follow these steps:
 
 5. Click on 'Process' after you ensure about your data settings.
 
+
 ## Contributing
 ------------
 This repository is intended for educational purposes and does not accept further contributions.
+
 
 ## License
 -------
